@@ -8,7 +8,8 @@ import java.awt.Color;
 import java.util.ArrayList;
 import javax.swing.*;
 /**
- *
+ * Hier wird etwas geändert
+ * 
  * @author kilian
  */
 public class ViewControler extends javax.swing.JFrame {
